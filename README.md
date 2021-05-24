@@ -1,5 +1,7 @@
 # cil_sentimental_sourdough
 
+Implementation of the sentiment analysis project for the course Computational Intelligence Lab @ ETH Zurich. Spring 2020.
+
 ## Creating required directories and installing dependencies
 
 Running the bash script `setup.sh` will create all the required directories. These either contain structures such as vocabularies and embedding matrices or host prediction files and useful plots.
