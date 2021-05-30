@@ -1,6 +1,7 @@
 # cil_sentimental_sourdough
 
 Implementation of the sentiment analysis project for the course Computational Intelligence Lab @ ETH Zurich. Spring 2020.
+Project Grade : 5.5 / 6
 
 ## Creating required directories and installing dependencies
 
